@@ -4,7 +4,7 @@ Repository for Computer Systems Organization Course
 This repository can be used as a model for the way your assignments will be submitted for class.
 
 You must have the following structure for your own version of the repo:
-
+*BOZO 
 ## Classwork
 #### Classwork01
 #### Classwork02
