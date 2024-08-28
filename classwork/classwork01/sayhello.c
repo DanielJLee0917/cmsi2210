@@ -1,8 +1,8 @@
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * filename: sayhello.c
  * purpose:  just to get things rolling
- * @author:  Dr. Johnson
- * @date:    2020-12-31
+ * @author:  Daniel Lee
+ * @date:    2024-08-28
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
  #include <stdio.h>
